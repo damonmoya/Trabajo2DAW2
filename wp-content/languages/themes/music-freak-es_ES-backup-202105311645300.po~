@@ -1,0 +1,1398 @@
+# <!=Copyright (C) 2019 Theme Palace
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Music Freak 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2019-08-02 08:32:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-05-31 16:45+0000\n"
+"Last-Translator: Damon García García\n"
+"Language-Team: Español\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: inc/customizer/defaults.php:40
+msgid " All Rights Reserved | "
+msgstr " Todos los Derechos Reservados | "
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/options.php:73
+msgid "--None--"
+msgstr "--Ninguno--"
+
+#: inc/options.php:17 inc/options.php:31 inc/options.php:45 inc/options.php:59
+msgid "--Select--"
+msgstr "--Seleccionar--"
+
+#: inc/customizer/defaults.php:40
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: 404.php:19
+msgid "404"
+msgstr "404"
+
+#: inc/breadcrumb-class.php:246
+msgid "404 Not Found"
+msgstr "404 No Encontrado"
+
+#. translators: %s: post date
+#: inc/template-tags.php:41
+msgid ""
+"<span class=\"posted-on\"><span class=\"screen-reader-text\">Posted on</span>"
+" %s"
+msgstr ""
+"<span class=\"posted-on\"><span class=\"screen-reader-text\">Publicado "
+"el</span> %s"
+
+#: inc/customizer/sections/about.php:24
+msgid "About Section Enable"
+msgstr "Activar sección Sobre"
+
+#: inc/customizer/sections/about.php:13
+msgid "About Section options."
+msgstr "opciones de sección Sobre."
+
+#: inc/customizer/sections/about.php:12 inc/options.php:206
+msgid "About Us"
+msgstr "Sobre Nosotros"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/helpers.php:479
+msgid "Add a menu"
+msgstr "Añadir menú"
+
+#: functions.php:213 functions.php:223
+msgid "Add widgets here."
+msgstr "Añade Widgets aquí."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Error al instalar %1$s: <strong>%2$s</strong>."
+
+#: inc/customizer/theme-options/archive.php:13
+msgid "Archive section options."
+msgstr "opciones de sección Archivos."
+
+#: inc/breadcrumb-class.php:247
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar activación de plugin"
+msgstr[1] "Comenzar activación de plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar instalación de plugin"
+msgstr[1] "Comenzar instalación de plugins"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar actualización de plugin"
+msgstr[1] "Comenzar actualización de plugins"
+
+#: functions.php:117
+msgid "Black"
+msgstr "Negro"
+
+#: inc/customizer/sections/blog.php:12 inc/helpers.php:562 inc/options.php:209
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/theme-options/excerpt.php:26
+msgid "Blog Page Excerpt Length"
+msgstr "Longitud del extracto de Página del Blog"
+
+#: inc/customizer/sections/blog.php:24
+msgid "Blog Section Enable"
+msgstr "Activar sección del Blog"
+
+#: inc/customizer/sections/blog.php:13
+msgid "Blog Section options."
+msgstr "Opciones de sección del Blog."
+
+#: inc/customizer/theme-options/archive.php:12
+msgid "Blog/Archive"
+msgstr "Blog/Archivo"
+
+#: inc/customizer/defaults.php:53
+msgid "Blogs"
+msgstr "Blogs"
+
+#: functions.php:102
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/customizer/theme-options/breadcrumb.php:11
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/customizer/theme-options/breadcrumb.php:12
+msgid "Breadcrumb section options."
+msgstr "Opciones de sección de Breadcrumb."
+
+#: inc/breadcrumb-class.php:244
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: inc/breadcrumb-class.php:243
+msgid "Browse:"
+msgstr "Navegar:"
+
+#: inc/customizer/sections/about.php:49 inc/customizer/sections/cta.php:49
+#: inc/customizer/sections/slider.php:51
+msgid "Button Label"
+msgstr "Etiqueta de botón"
+
+#: inc/structure.php:348
+msgid "by"
+msgstr "por"
+
+#. translators: %s: post author
+#: inc/template-tags.php:56
+msgid "By: %s"
+msgstr "Por: %s"
+
+#: inc/customizer/sections/cta.php:12 inc/options.php:210
+msgid "Call to Action"
+msgstr "Llamar a Acción"
+
+#: inc/customizer/sections/cta.php:24
+msgid "Call to Action Section Enable"
+msgstr "Activar sección Llamar a Acción"
+
+#: inc/customizer/sections/cta.php:13
+msgid "Call to Action Section options."
+msgstr "Opciones de sección Llamar a Acción."
+
+#: inc/customizer/sections/blog.php:66
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/theme-options/reset.php:16
+msgid ""
+"Caution: All settings will be reset to default. Refresh the page after "
+"clicking Save & Publish."
+msgstr ""
+"Atención: Todos los ajustes serás restablecidos por defecto. Refresca la "
+"página después de hacer clic en Guardar y Publicar."
+
+#: inc/customizer/theme-options/homepage-static.php:18
+msgid "Check to enable content on static front page only."
+msgstr "Marca para activar contenido solo en página frontal estática."
+
+#: inc/customizer/theme-options/reset.php:27
+msgid "Check to reset all settings"
+msgstr "Marca para restablecer todos los ajustes"
+
+#. translators: If there are characters in your language that are not supported
+#. by Cherry Swash, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:262
+msgctxt "Cherry Swash font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/theme-options/menu.php:39
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#: inc/demo-import.php:14
+msgid "Click here for Demo File download"
+msgstr "Haz clic aquí para descargar el fichero de Demo"
+
+#: inc/customizer/custom-controls.php:426
+msgid "Click here to select icon"
+msgstr "Haz clic aquí para seleccionar el icono"
+
+#: functions.php:378
+msgid "Collapse child menu"
+msgstr "Colapsar menú hijo"
+
+#: comments.php:55 comments.php:77
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados,"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respuestas a &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a &ldquo;%s&rdquo;"
+
+#: inc/tgm-plugin/tgm-hook.php:63
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/customizer/sections/blog.php:61
+msgid "Content Type"
+msgstr "Tipo de Contenido"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer/theme-options/footer.php:29
+msgid "Copyright Text"
+msgstr "Texto de Copyright"
+
+#: inc/breadcrumb-class.php:758 inc/breadcrumb-class.php:1183
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/customizer/customizer.php:101
+msgid "Dark Version"
+msgstr "Versión Oscura"
+
+#: inc/custom-header.php:31
+msgid "Default Header Image"
+msgstr "Imagen del encabezado predeterminada"
+
+#: inc/options.php:105
+msgid "Default Sidebar"
+msgstr "Sidebar predeterminada"
+
+#: inc/options.php:161
+msgid "Default(Older/Newer)"
+msgstr "Por defecto(Más viejo/Más reciente)"
+
+#: inc/demo-import.php:13
+msgid "Demo content files for Music Freak Theme."
+msgstr "Ficheros de contenido Demo para el Tema Music Freak."
+
+#: inc/options.php:178
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/customizer/theme-options/footer.php:55
+msgid "Display Scroll Top Button"
+msgstr "Mostrar botón superior de scroll"
+
+#: inc/customizer/theme-options/menu.php:38
+msgid "Display Social Menu"
+msgstr "Mostrar Menú social"
+
+#. translators: If there are characters in your language that are not supported
+#. by Dosis, translate this to 'off'. Do not translate into your own language.
+#: functions.php:277
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:105 template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/options.php:177
+msgid "Enable"
+msgstr "Activar"
+
+#: inc/customizer/theme-options/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr "Activar Breadcrumb"
+
+#: inc/customizer/theme-options/homepage-static.php:17
+msgid "Enable Content"
+msgstr "Activar Contenido"
+
+#: inc/customizer/theme-options/menu.php:24
+msgid "Enable Menu Search"
+msgstr "Activar Búsqueda de Menú"
+
+#: inc/customizer/theme-options/excerpt.php:12
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/theme-options/excerpt.php:13
+msgid "Excerpt section options."
+msgstr "Opciones de sección Extracto."
+
+#: functions.php:377
+msgid "Expand child menu"
+msgstr "Expandir menú hijo"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: functions.php:61
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/theme-options/footer.php:13
+msgid "Footer Options"
+msgstr "Opciones del Footer"
+
+#: inc/footer-widgets.php:107
+msgid "Footer Widget %d"
+msgstr "Footer Widget %d"
+
+#: inc/customizer/customizer.php:145
+msgid "Front Page"
+msgstr "Página Principal"
+
+#: inc/customizer/customizer.php:146
+msgid "Front Page Theme Options."
+msgstr "Opciones del Tema de la página frontal."
+
+#: inc/customizer/theme-options/layout.php:36
+msgid "Global Sidebar Position"
+msgstr "Posición de Sidebar global"
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:77
+msgid "Go Pro"
+msgstr "Házte Pro"
+
+#: functions.php:107
+msgid "Green"
+msgstr "Verde"
+
+#: functions.php:122
+msgid "Grey"
+msgstr "Gris"
+
+#. translators: If there are characters in your language that are not supported
+#. by Gudea, translate this to 'off'. Do not translate into your own language.
+#: functions.php:294
+msgctxt "Gudea font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/theme-options/menu.php:12
+msgid "Header Menu"
+msgstr "Menú de encabezado"
+
+#: inc/customizer/theme-options/menu.php:13
+msgid "Header Menu options."
+msgstr "Opciones de menú del encabezado."
+
+#: inc/customizer/customizer.php:62
+msgid "Header Tagline Color"
+msgstr "Color de lema del encabezado"
+
+#: inc/customizer/customizer.php:49
+msgid "Header Title Color"
+msgstr "Color de título del encabezado"
+
+#: inc/customizer/customizer.php:79
+msgid "Hide All"
+msgstr "Ocultar todos"
+
+#: inc/customizer/theme-options/single-posts.php:36
+msgid "Hide Author"
+msgstr "Ocultar Autor"
+
+#: inc/customizer/theme-options/archive.php:50
+#: inc/customizer/theme-options/single-posts.php:48
+msgid "Hide Category"
+msgstr "Ocultar Categoría"
+
+#: inc/customizer/theme-options/archive.php:38
+#: inc/customizer/theme-options/single-posts.php:24
+msgid "Hide Date"
+msgstr "Ocultar Fecha"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: inc/customizer/theme-options/single-posts.php:60
+msgid "Hide Tag"
+msgstr "Ocultar Etiqueta"
+
+#: inc/breadcrumb-class.php:245
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumb-class.php:740
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#. Author URI of the plugin/theme
+msgid "https://themepalace.com"
+msgstr "https://themepalace.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themepalace.com/downloads/music-freak"
+msgstr "https://themepalace.com/downloads/music-freak"
+
+#: functions.php:149
+msgid "huge"
+msgstr "enorme"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins requeridos"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no Activado"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Parece que no se ha encontrado nada en esta ubicación. ¿Quizás quieras "
+"intentar una búsqueda?"
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que buscas. Realizar una búsqueda podría "
+"ayudarte."
+
+#. translators: If there are characters in your language that are not supported
+#. by Khand, translate this to 'off'. Do not translate into your own language.
+#: functions.php:304
+msgctxt "Khand font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:144
+msgid "L"
+msgstr "L"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: functions.php:143
+msgid "larger"
+msgstr "más grande"
+
+#: inc/customizer/theme-options/layout.php:12
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/metabox.php:83
+msgid "Layout Options"
+msgstr "Opciones del Layout"
+
+#: inc/customizer/theme-options/layout.php:13
+msgid "Layout section options."
+msgstr "Opciones de la sección del Layout."
+
+#: inc/customizer/customizer.php:100
+msgid "Lite Version"
+msgstr "Versión Lite"
+
+#: inc/customizer/customizer.php:84
+msgid "Logo + Tagline"
+msgstr "Logo + Lema"
+
+#: inc/customizer/customizer.php:83
+msgid "Logo + Title"
+msgstr "Logo + Título"
+
+#: functions.php:138
+msgid "M"
+msgstr "M"
+
+#: inc/customizer/sections/slider.php:12 inc/options.php:205
+msgid "Main Slider"
+msgstr "Slider principal"
+
+#: inc/customizer/validation.php:18
+msgid "Maximum no of words is 100"
+msgstr "El mínimo de palabras es 100"
+
+#: inc/structure.php:115
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/validation.php:16
+msgid "Minimum no of words is 5"
+msgstr "El mínimo de palabras es 5"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-class.php:253
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#: inc/breadcrumb-class.php:706
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/breadcrumb-class.php:723
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-class.php:757 inc/breadcrumb-class.php:813
+#: inc/breadcrumb-class.php:1179
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#. translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own language.
+#: functions.php:245
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/sections/music-video.php:12
+msgid "Music & Video Playlist"
+msgstr "Music & Video Playlist"
+
+#: inc/customizer/sections/music-video.php:24
+msgid "Music & Video Playlist Section Enable"
+msgstr "Activar sección Music & Video Playlist"
+
+#: inc/customizer/sections/music-video.php:13
+msgid "Music & Video Playlist Section options."
+msgstr "Opciones de sección de Music & Video Playlist."
+
+#: inc/options.php:207
+msgid "Music and Video Playlist"
+msgstr "Music and Video Playlist"
+
+#. Theme Name of the plugin/theme
+msgid "Music Freak"
+msgstr "Music Freak"
+
+#: inc/metabox.php:171
+msgid "Music Freak Meta Options"
+msgstr "Opciones del Meta Music Freak"
+
+#: inc/customizer/customizer.php:109
+msgid "Music Freak Theme Options."
+msgstr "Opciones del tema Music Freak."
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:76
+msgid "Music Frek Pro"
+msgstr "Music Frek Pro"
+
+#. Description of the plugin/theme
+msgid ""
+"Music plays an important role in our life. If you'r a musicians take a look "
+"at this Music Freak theme, this may help you to show your music creativity "
+"to audience. This theme is totally free, will support you to share music and "
+"raise your creativity yourself. Fully easy to customize and compatible for "
+"all devices. Music artist, bands, DJs, well, anyone in the music space, you "
+"are all more than welcome to use this theme."
+msgstr ""
+"Music plays an important role in our life. If you'r a musicians take a look "
+"at this Music Freak theme, this may help you to show your music creativity "
+"to audience. This theme is totally free, will support you to share music and "
+"raise your creativity yourself. Fully easy to customize and compatible for "
+"all devices. Music artist, bands, DJs, well, anyone in the music space, you "
+"are all more than welcome to use this theme."
+
+#: inc/customizer/sections/music-video.php:37
+msgid "Music Title"
+msgstr "Título de canción"
+
+#: comments.php:59 comments.php:81
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#. translators: If there are characters in your language that are not supported
+#. by |News Cycle, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:284
+msgctxt "News Cycle font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helpers.php:110
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/options.php:192
+msgid "No"
+msgstr "No"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ninguna acción realizada. Plugin %1$s ya estaba activo."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar ahora mismo."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar ahora mismo."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar ahora mismo."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Ningún plugin seleccionado para activar. No se ha realizado ninguna acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Ningún plugin seleccionado para instalar. No se ha realizado ninguna acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Ningún plugin seleccionado para actualizar. No se ha realizado ninguna "
+"acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/customizer/sections/blog.php:78
+msgid "Note: Latest seven posts will be shown from selected category"
+msgstr ""
+"Nota: Las últimas siete entradas serán mostradas de la categoría seleccionada"
+
+#: inc/customizer/theme-options/excerpt.php:27
+msgid ""
+"Note: Min 5 & max is 100.Total words to be displayed in archive page/search "
+"page."
+msgstr ""
+"Note: Min 5 y Max 100 palabras a mostrar en las página archivo/búsqueda."
+
+#: inc/customizer/sections/blog.php:91
+msgid ""
+"Note: Select categories to exclude. Press Shift key select multilple "
+"categories."
+msgstr ""
+"Nota: Selecciona categorías a excluir. Pulsa la tecla Shift para seleccionar "
+"múltiples categorías."
+
+#: inc/customizer/theme-options/menu.php:39
+msgid "Note: To show topbar menu."
+msgstr "Nota: Para mostrar el menú en la Topbar."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: inc/options.php:160
+msgid "Numeric"
+msgstr "Numérico"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito, translate this to 'off'. Do not translate into your own language.
+#: functions.php:250
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helpers.php:109
+msgid "Older"
+msgstr "Más antiguos"
+
+#: comments.php:58 comments.php:80
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: inc/tgm-plugin/tgm-hook.php:69
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/helpers.php:572
+msgid "Oops! That page can&#39;t be found."
+msgstr "¡Vaya! Esas página no puede ser encontrada."
+
+#: functions.php:221
+msgid "Optional Sidebar"
+msgstr "Sidebar opcional"
+
+#: inc/options.php:106
+msgid "Optional Sidebar 1"
+msgstr "Sidebar opcional 1"
+
+#: inc/customizer/theme-options/single-posts.php:13
+msgid "Options to change the single posts globally."
+msgstr "Opciones para cambiar las entradas únicas globalmente."
+
+#: functions.php:112
+msgid "Orange"
+msgstr "Naranja"
+
+#: inc/customizer/defaults.php:86
+msgid "Our Latest Blog"
+msgstr "Nuestro último Blog"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-class.php:251
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/customizer/theme-options/layout.php:60
+msgid "Pages Sidebar Position"
+msgstr "Posición Sidebar de las páginas"
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:32
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/customizer/theme-options/pagination.php:12
+msgid "Pagination"
+msgstr "Paginación"
+
+#: inc/customizer/theme-options/pagination.php:24
+msgid "Pagination Enable"
+msgstr "Activar Paginación"
+
+#: inc/customizer/theme-options/pagination.php:13
+msgid "Pagination section options."
+msgstr "Opciones de la sección de paginación."
+
+#: inc/customizer/theme-options/pagination.php:36
+msgid "Pagination Type"
+msgstr "Tipo de paginación"
+
+#. translators: If there are characters in your language that are not supported
+#. by Philosopher, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:267
+msgctxt "Philosopher font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: inc/customizer/defaults.php:68 inc/sections/slider.php:99
+msgid "Play All"
+msgstr "Reproducir todos"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor contacta con el administrador del sitio para ayuda."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Por favor contacta con el autor del plugin y pide la compresión de su plugin "
+"de acuerdo a las directrices de WordPress."
+
+#: inc/helpers.php:273
+msgid "Please define an SVG icon filename."
+msgstr "Por favor define un nombre de archivo para el icono SVG."
+
+#: inc/helpers.php:268
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor define los parámetros predeterminados en forma de array."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Activación de Plugin fallida."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin no activado. Una versión más reciente de %s es necesaria para este "
+"tema. Por favor actualiza el plugin."
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: If there are characters in your language that are not supported
+#. by Pontano Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:289
+msgctxt "Pontano Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:48
+msgid "Posts Sidebar Position"
+msgstr "Posición del Sidebar de entradas"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Precomprimido"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Primario"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:299
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Rajdhani, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:257
+msgctxt "Rajdhani font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/defaults.php:54 template-parts/content.php:13
+msgid "Read Full Article"
+msgstr "Leer artículo completo"
+
+#: inc/customizer/defaults.php:72 inc/customizer/defaults.php:90
+#: inc/sections/about.php:91 inc/sections/cta.php:89
+msgid "Read More"
+msgstr "Leer Más"
+
+#: inc/customizer/theme-options/archive.php:62
+msgid "Read More Text"
+msgstr "Texto Leer más"
+
+#: template-parts/content-none.php:23
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/customizer/sections/blog.php:67
+msgid "Recent"
+msgstr "Recientes"
+
+#: inc/customizer/defaults.php:76
+msgid "Recently Played"
+msgstr "Reproducido recientemente"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/customizer/customizer.php:202
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+"Recarga la página del personalizador después de guardar para ver los efectos "
+"del restablecimiento"
+
+#: functions.php:137
+msgid "regular"
+msgstr "normal"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/customizer/theme-options/reset.php:15
+msgid "Reset all settings"
+msgstr "Restaurar todos los ajustes"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al Instalador de plugins requeridos"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al Panel"
+
+#: functions.php:132
+msgid "S"
+msgstr "S"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumb-class.php:249
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados para &#8220;%s&#8221;"
+
+#: inc/helpers.php:570
+msgid "Search Results for: %s"
+msgstr "Resultados para: %s"
+
+#: inc/customizer/sections/blog.php:77
+msgid "Select Category"
+msgstr "Seleccionar Categoría"
+
+#: inc/customizer/sections/blog.php:90
+msgid "Select Excluding Categories"
+msgstr "Seleccionar categorías excluyentes"
+
+#: inc/customizer/sections/service.php:62
+msgid "Select Icon %d"
+msgstr "Seleccionar Icono %d"
+
+#: inc/customizer/sections/music-video.php:60
+msgid "Select Multiple Audios"
+msgstr "Seleccionar múltiples audios"
+
+#: inc/customizer/sections/about.php:35 inc/customizer/sections/cta.php:35
+msgid "Select Page"
+msgstr "Seleccionar Página"
+
+#: inc/customizer/sections/service.php:73 inc/customizer/sections/slider.php:36
+msgid "Select Page %d"
+msgstr "Seleccionar Página %d"
+
+#: inc/metabox.php:84
+msgid "Select Sidebar"
+msgstr "Seleccionar Sidebar"
+
+#: inc/customizer/theme-options/breadcrumb.php:35
+msgid "Separator"
+msgstr "Separador"
+
+#: inc/customizer/sections/service.php:24
+msgid "Service Section Enable"
+msgstr "Activar Sección de Servicio"
+
+#: inc/customizer/sections/service.php:12 inc/options.php:208
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/customizer/sections/service.php:13
+msgid "Services Section options."
+msgstr "Opciones de sección de servicios."
+
+#: inc/customizer/customizer.php:80
+msgid "Show All"
+msgstr "Mostrar todo"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: functions.php:211
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer/theme-options/single-posts.php:12
+msgid "Single Post"
+msgstr "Entrada única"
+
+#: inc/customizer/customizer.php:76
+msgid "Site Identity Extra Options"
+msgstr "Opciones extra para la Identidad del Sitio"
+
+#: inc/customizer/theme-options/layout.php:24
+msgid "Site Layout"
+msgstr "Layout del sitio"
+
+#: inc/structure.php:61
+msgid "Skip to content"
+msgstr "Saltar a contenido"
+
+#. translators: If there are characters in your language that are not supported
+#. by Slabo 27px, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:272
+msgctxt "Slabo 27px font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:24
+msgid "Slider Section Enable"
+msgstr "Activar sección Slider"
+
+#: inc/customizer/sections/slider.php:13
+msgid "Slider Section options."
+msgstr "Opciones de sección Slider."
+
+#: functions.php:131
+msgid "small"
+msgstr "pequeño"
+
+#: functions.php:60
+msgid "Social"
+msgstr "Social"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha ido mal con la API del plugin."
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero nada coincide con tus términos de búsqueda. Por favor "
+"inténtalo de nuevo con otros términos."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/customizer/customizer.php:82
+msgid "Tagline Only"
+msgstr "Solo lema"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:97
+msgid "Tags: %1$s"
+msgstr "Etiquetas: %1$s"
+
+#. translators: %s: version number
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin ha sido activado correctamente:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación está comenzando. Este proceso puede "
+"tardar un tiempo en algunos hosts, sé paciente por favor."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tardar un "
+"tiempo en algunos hosts, sé paciente por favor."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete del plugin remoto contiene más de un fichero, pero estos no están "
+"en una carpeta."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete del plugin remoto no contiene una carpeta con el slug deseado y "
+"el renombrado ha fallado."
+
+#: inc/customizer/customizer.php:98
+msgid "Theme Color"
+msgstr "Colores del Tema"
+
+#: inc/customizer/customizer.php:108
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#. Author of the plugin/theme
+msgid "Theme Palace"
+msgstr "Theme Palace"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay más de un plugin requerido o recomendado para instalar, actualizar o "
+"activar."
+
+#: inc/customizer/theme-options/archive.php:25
+msgid ""
+"This option only works if Static Front Page is set to \"Your latest posts.\""
+msgstr ""
+"Esta opción solo funciona si Página Frontal Estática está establecida en "
+"\"Tus últimas entradas\""
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Este plugin necesitar estar actualizado para ser compatible con tu tema."
+
+#: inc/customizer/sections/blog.php:37 inc/customizer/sections/service.php:37
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer.php:81
+msgid "Title Only"
+msgstr "Solo Título"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: inc/customizer/theme-options/menu.php:39
+msgid "to create menu"
+msgstr "para crear menú"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#: inc/customizer/defaults.php:77
+msgid "Trending Video"
+msgstr "Vídeo de moda"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugin: %s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de mejora de autor del plugin:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/customizer/sections/music-video.php:74
+msgid "Video Title"
+msgstr "Título del vídeo"
+
+#: inc/customizer/sections/music-video.php:98
+msgid "Video Url"
+msgstr "Url del vídeo"
+
+#: inc/customizer/defaults.php:81
+msgid "We provide melodious services to you"
+msgstr "Ofrecemos servicios melodiosos para ti"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-class.php:255
+msgid "Week %s"
+msgstr "Semana %s"
+
+#: inc/breadcrumb-class.php:786
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: functions.php:150
+msgid "XL"
+msgstr "XL"
+
+#: inc/breadcrumb-class.php:756 inc/breadcrumb-class.php:785
+#: inc/breadcrumb-class.php:812 inc/breadcrumb-class.php:839
+#: inc/breadcrumb-class.php:1175
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/options.php:191
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/customizer/validation.php:14
+msgid "You must supply a valid number."
+msgstr "Debes introducir un número válido."
+
+#: inc/customizer/theme-options/archive.php:24
+msgid "Your Latest Posts Title"
+msgstr "Título de tus últimas entradas"
